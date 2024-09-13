@@ -3,12 +3,12 @@
 This project is focused on forecasting Bitcoin prices using various deep learning techniques, including a custom implementation of the N-BEATS model. The main objective is to build an ensemble of forecasting models to predict future Bitcoin prices based on historical data, aiming to achieve higher accuracy than standard baseline models like naive forecasting.
 
 ## Tech Stack:
-*Python: Core programming language used.
-*TensorFlow & Keras: Used for building deep learning models.
-*NumPy & Pandas: For data manipulation and handling time-series data.
-*Matplotlib: Visualization of predictions and metrics.
-*Scikit-learn: Preprocessing and scaling of data.
-*Custom N-BEATS Model: For building the ensemble learning framework.
+* Python: Core programming language used.
+* TensorFlow & Keras: Used for building deep learning models.
+* NumPy & Pandas: For data manipulation and handling time-series data.
+* Matplotlib: Visualization of predictions and metrics.
+* Scikit-learn: Preprocessing and scaling of data.
+* Custom N-BEATS Model: For building the ensemble learning framework.
 
 ## Methodology
 Data Collection: Bitcoin historical prices and block reward information are used as the primary dataset.
